@@ -229,6 +229,9 @@ The project was performed with a computer with the following characteristics:
 
 •	Power BI: A business intelligence software that was used in carrying out exploratory data analysis on the Instacart dataset. 
 
+## Authors
+
+- [@kelvinodigili](https://www.linkedin.com/in/kelvinodigili/)
 
 
 
